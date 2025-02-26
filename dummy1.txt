@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 my name is maharaja vkl 
+=======
+my name is maharaja v
+who are you 
+>>>>>>> 0cf7fe910307b391685418b3fdbcacda2edc53ce
